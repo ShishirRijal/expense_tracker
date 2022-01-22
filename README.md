@@ -3,10 +3,12 @@ I tried to build an app in flutter that can record the transaction we make in ou
 
 #note
 Not a functional app to use for one's daily use, but just a simple app build by a beginner :)
+But if you just wanna try the app, here you go
+Download -> https://drive.google.com/file/d/1yYNJb3MvoCEl0nOtdTxWiG7ISYZgJVS_/view?usp=sharing
 
 This app is inspired by the ui provided in dribble by Sagar Panchal < https://dribbble.com/SagarPanchal >
 
-Link-> https://dribbble.com/shots/15560984-Daily-Expense-Tracker
+Link-> https://bit.ly/3qRxVPe
 
 #app_snaps
 ![01](https://user-images.githubusercontent.com/63596895/150645325-a3b02b80-5277-4572-b6a7-ed635a96c74b.jpg)
