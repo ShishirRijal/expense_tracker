@@ -205,7 +205,7 @@ class _NewTransactionState extends State<NewTransaction> {
                 child: Row(
                   children: [
                     const SizedBox(width: 20.0),
-                    const Icon(Icons.note_add),
+                    const Icon(Icons.note_add, color: Colors.black54),
                     const SizedBox(width: 20.0),
                     // ignore: sized_box_for_whitespace
                     Container(

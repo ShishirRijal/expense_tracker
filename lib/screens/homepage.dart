@@ -87,12 +87,12 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     final deviceHeight = MediaQuery.of(context).size.height;
-
     return Scaffold(
       floatingActionButton: FloatingActionButton(
         child: const Icon(Icons.add, color: Colors.white, size: 25.0),
         onPressed: () => setState(() {
           showModalBottomSheet(
+            isScrollControlled: true,
             context: context,
             builder: (BuildContext context) {
               return NewTransaction(

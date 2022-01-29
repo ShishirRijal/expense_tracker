@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+const kPrimaryColor = Colors.deepOrange;
 const kBackgroundColor = Color(0XFFF3F4F6);
 const kGradient = LinearGradient(
   begin: Alignment.topCenter,
@@ -23,4 +24,24 @@ const kActiveTextStyle = TextStyle(
 const kInactiveTextStyle = TextStyle(
   color: Colors.grey,
   fontSize: 16.0,
+);
+
+const kTitleTextStyle = TextStyle(
+  color: Colors.black,
+  fontSize: 24.0,
+  fontFamily: 'Raleway',
+  fontWeight: FontWeight.bold,
+);
+
+const kColouredHeadline = TextStyle(
+  color: kPrimaryColor,
+  fontSize: 30,
+  fontFamily: 'Raleway',
+  fontWeight: FontWeight.w900,
+);
+const kHeadline = TextStyle(
+  color: Colors.black,
+  fontSize: 40.0,
+  fontWeight: FontWeight.w900,
+  fontFamily: 'Raleway',
 );

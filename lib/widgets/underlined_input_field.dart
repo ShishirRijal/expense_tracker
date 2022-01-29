@@ -11,14 +11,15 @@ class UnderLinedInputField extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return TextField(
+      // textAlign: TextAlign.center,
       obscureText: hideText ?? false,
       style: const TextStyle(
         color: Colors.black,
         fontSize: 25.0,
         fontWeight: FontWeight.bold,
       ),
-      decoration: const InputDecoration(
-        enabledBorder: UnderlineInputBorder(
+      decoration: InputDecoration(
+        enabledBorder: const UnderlineInputBorder(
           borderSide: BorderSide(
             color: Colors.deepOrange,
             width: 2.0,
@@ -26,7 +27,8 @@ class UnderLinedInputField extends StatelessWidget {
         ),
         filled: true,
         fillColor: Colors.white,
-        hintStyle: TextStyle(
+        hintText: hintText,
+        hintStyle: const TextStyle(
           color: Colors.black,
           fontSize: 18.0,
           fontWeight: FontWeight.normal,
