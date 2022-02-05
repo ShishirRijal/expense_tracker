@@ -1,4 +1,3 @@
-import 'package:expense_tracker/screens/login_screen.dart';
 import 'package:flutter/material.dart';
 
 class BottomText extends StatelessWidget {

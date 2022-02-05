@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-import '../constant.dart';
-
 class FlatTextButton extends StatelessWidget {
   const FlatTextButton({Key? key, required this.title, required this.onClick})
       : super(key: key);
@@ -25,7 +23,7 @@ class FlatTextButton extends StatelessWidget {
           ),
           child: Text(
             title,
-            style: TextStyle(
+            style: const TextStyle(
                 color: Colors.white,
                 fontSize: 20.0,
                 fontWeight: FontWeight.bold),
