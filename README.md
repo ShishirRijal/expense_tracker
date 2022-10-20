@@ -5,6 +5,7 @@ It allows the user to track each of his/her everyday transactions, thay may be e
 It allows the user to group the expenses as per their categories, along with 
 the functionality to add own categories that is completely customizable. 
 Moreover, the app save your data locally on your device and helps persist the state of app..
+	This app uses Hive as local database and Provider for state management.
 ````
 ## Download App
 ````
