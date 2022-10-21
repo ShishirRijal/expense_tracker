@@ -16,6 +16,11 @@ Why don't you try it once...
 ````  
 This app's UI is inspired by the ui provided in dribble by Sagar Panchal < https://dribbble.com/SagarPanchal >
 
+## Note
+````
+The repository contains the older UI version only, the complete functional app will be soon updated to repository. 
+For now, you can download the app and check how it works.
+````
 
  ## Features
 	### Money Card
