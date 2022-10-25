@@ -10,7 +10,7 @@ Moreover, the app save your data locally on your device and helps persist the st
 ## Download App
 ````
 Why don't you try it once...
-  Playstore link ->  https://drive.google.com/file/d/1SKfZWYyIQN6UNYx1iaosPxpzHhhtla39/view?usp=sharing
+  Android link -> https://drive.google.com/file/d/1N1T_TRbtH2hdYN5APxixdn4VXdwNm5kD/view?usp=sharing
   
   AppStore link -> Oops! Sorry:(
 ````  
