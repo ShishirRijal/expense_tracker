@@ -10,7 +10,7 @@ Moreover, the app save your data locally on your device and helps persist the st
 ## Download App
 ````
 Why don't you try it once...
-  Android link -> https://drive.google.com/file/d/1N1T_TRbtH2hdYN5APxixdn4VXdwNm5kD/view?usp=sharing
+  Android link -> https://market.android.com/details?id=np.com.shishirrijal.budget_tracker_app
   
   AppStore link -> Oops! Sorry:(
 ````  
